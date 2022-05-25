@@ -15,5 +15,9 @@ public class HelloWorld {
 
          int numberOne = 1;
         System.out.println("This number is " + numberOne);
+        
+        int numberTwo = 2;
+        System.out.println("This number is " + numberTwo);
+        
         }
 }
