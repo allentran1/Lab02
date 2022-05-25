@@ -13,6 +13,7 @@ public class HelloWorld {
     
         public static void main(String[] args) {
 
-            
+         int numberOne = 1;
+        System.out.println("This number is " + numberOne);
         }
 }
